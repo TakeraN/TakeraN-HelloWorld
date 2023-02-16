@@ -17,4 +17,5 @@ public class HelloWorldTest {
         String actual = hw.sayHello().trim();
         Assert.assertEquals(expected,actual);
     }
+system.out.println
 }
